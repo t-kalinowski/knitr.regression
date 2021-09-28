@@ -1,0 +1,18 @@
+---
+title: "a_vignette"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{a_vignette}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  eval = FALSE
+)
+```
+
+```{r}
+stop("I shouldn't run!")
+```

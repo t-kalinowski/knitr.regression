@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^.github$
+^LICENSE\.md$
+^.gitignore$
+^vignettes/.gitignore$
+^.Rproj.user$
+^.git$
+^.github$
